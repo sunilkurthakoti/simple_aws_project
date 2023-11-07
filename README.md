@@ -1,5 +1,5 @@
 
-# Hosting an Website on AWS S3, Cloudfront and code Pipeline
+# Hosting an Website using AWS S3, Cloudfront and code Pipeline
 
 Hosting a website using Amazon S3, CloudFront, and CodePipeline is a streamlined and efficient way to deliver a highly available and scalable web application. This setup leverages the services provided by Amazon Web Services (AWS) to ensure a reliable and performant web hosting environment. 
 
